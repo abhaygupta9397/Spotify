@@ -45,3 +45,5 @@ app.listen(PORT , ()=>{
     console.log("Server is running on port "+PORT);
     connectDB();
 });
+
+//socket io for chat of the users
